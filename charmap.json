@@ -1,0 +1,15 @@
+{
+    "charmap": {
+      "<basepinyin>": [
+        "<unicode for character 1>",
+        "<unicode for character 2>",
+        "<unicode for character 3>"
+      ],
+      "<another basepinyin>": [
+        "<unicode for character 1>",
+        "<unicode for character 2>",
+        "<unicode for character 3>"
+      ]
+    }
+  }
+  
